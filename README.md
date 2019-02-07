@@ -11,10 +11,10 @@ What is Bitcoinhyper?
 ----------------
 
 Bitcoinhyper is a transactional speed enhanced version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 1 second block targets
+ - 2 second block targets
  - 64MB Blocks
  - 48 million total coins
- - Reward 50 coins per block
+ - Tiered coin rewards per block
 
 For more information, as well as an immediately useable, binary version of
 the Bitcoinhyper client sofware, see http://www.bitcoinhyper.com
